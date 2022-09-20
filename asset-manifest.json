@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MightyGuys/static/css/main.4aeba613.css",
+    "main.js": "/MightyGuys/static/js/main.6cae5ddb.js",
+    "static/js/787.7c23476e.chunk.js": "/MightyGuys/static/js/787.7c23476e.chunk.js",
+    "index.html": "/MightyGuys/index.html",
+    "main.4aeba613.css.map": "/MightyGuys/static/css/main.4aeba613.css.map",
+    "main.6cae5ddb.js.map": "/MightyGuys/static/js/main.6cae5ddb.js.map",
+    "787.7c23476e.chunk.js.map": "/MightyGuys/static/js/787.7c23476e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aeba613.css",
+    "static/js/main.6cae5ddb.js"
+  ]
+}
