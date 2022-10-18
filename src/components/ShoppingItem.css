@@ -1,0 +1,42 @@
+.shopping-item-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.shopping-item {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-flow: column;
+    margin: 10px;
+    border: solid orange;
+}
+
+.shopping-item-img {
+    width: 100%;
+    height: 70%;
+}
+
+.shopping-footer {
+    width: 100%;
+    flex-grow: 1;
+}
+
+.shopping-footer div {
+    display: inline-block;
+    height: 100%;
+}
+
+.shopping-btn {
+    width: 30%;
+    background-color: orange;
+}
+
+.inc {
+    float: left;
+}
+
+.dec {
+    float: right;
+}
